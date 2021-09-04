@@ -1,2 +1,2 @@
 # Unban
-A simple plugin with no extras or so
+A simple Plugin to unban players by using "/unban" instead of "/pardon".
