@@ -1,8 +1,0 @@
-name: Unban
-main: Main.unbanMain
-version: 2.0
-api-version: 1.13
-commands:
-    unban:
-      description: Unbans a Player.
-      usage: /unban
